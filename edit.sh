@@ -1,2 +1,2 @@
 #!/bin/bash
-vim keyboards/ergodox_ez/keymaps/ymizushi-default/keymap.c
+emacs keyboards/ergodox_ez/keymaps/tsatow-default/keymap.c
